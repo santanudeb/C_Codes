@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517725020 source:d:\installed\codeblocks\programs\triangle_pattern2\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516124640 source:d:\installed\codeblocks\programs\sum of columns of 2d array\main.c
+	<stdio.h>
+	<stdlib.h>
+

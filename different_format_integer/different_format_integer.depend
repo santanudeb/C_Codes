@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517380082 source:d:\installed\codeblocks\programs\different_format_integer\main.c
+	<stdio.h>
+	<stdlib.h>
+

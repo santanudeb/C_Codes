@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518463035 source:d:\installed\codeblocks\programs\count_digit_in_no\main.c
+	<stdio.h>
+	<stdlib.h>
+

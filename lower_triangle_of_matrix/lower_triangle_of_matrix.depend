@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518716167 source:d:\installed\codeblocks\programs\lower_triangle_of_matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+

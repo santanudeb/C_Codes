@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518871541 source:d:\installed\codeblocks\programs\anagrams2\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

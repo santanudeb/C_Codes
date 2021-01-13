@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517145724 source:d:\installed\codeblocks\programs\printing_total_of_static\main.c
+	<stdio.h>
+	<stdlib.h>
+

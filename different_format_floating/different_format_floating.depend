@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517381778 source:d:\installed\codeblocks\programs\different_format_floating\main.c
+	<stdio.h>
+	<stdlib.h>
+

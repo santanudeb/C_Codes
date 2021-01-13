@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517661602 source:d:\installed\codeblocks\programs\perfect_no\main.c
+	<stdio.h>
+	<stdlib.h>
+

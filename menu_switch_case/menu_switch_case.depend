@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517403426 source:d:\installed\codeblocks\programs\menu_switch_case\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516037300 source:d:\installed\codeblocks\programs\average using array\main.c
+	<stdio.h>
+	<stdlib.h>
+

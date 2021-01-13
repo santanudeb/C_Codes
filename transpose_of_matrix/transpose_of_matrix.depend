@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518848466 source:d:\installed\codeblocks\programs\transpose_of_matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+

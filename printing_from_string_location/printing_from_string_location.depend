@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516697748 source:d:\installed\codeblocks\programs\printing_from_string_location\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518450523 source:d:\installed\codeblocks\programs\power_of_two\main.c
+	<stdio.h>
+	<stdlib.h>
+

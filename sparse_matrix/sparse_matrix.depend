@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521961022 source:d:\installed\codeblocks\programs\sparse_matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+
